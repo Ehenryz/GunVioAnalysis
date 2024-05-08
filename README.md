@@ -48,5 +48,4 @@ to the data?
 have the highest gun violence related deaths?
 3. What changes over time does the data show relating to gun violence incidents frequency?
 Have incidents increased or decreased over time?
-4. Which age group has the highest frequency of gun violence incidents?
-5. Does gender play a role in the incidents of gun violence?
+4. Does gender play a role in the incidents of gun violence?
