@@ -42,3 +42,9 @@ have the highest gun violence related deaths?
 3. What changes over time does the data show relating to gun violence incidents frequency?
 Have incidents increased or decreased over time?
 4. Does gender play a role in the incidents of gun violence?
+## Folders
+* Project Management (_Project Brief_)
+* Data (_Orignal Data & Prepared Data_)
+* Scripts (_contains Python code for analysis_)
+* Analysis (_contains Visualizations_)
+* Sent to Client (_contains Final Tableau Dashboard and recommendations_)
