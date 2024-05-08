@@ -30,7 +30,7 @@ Other data limitations:
 
 *Data only includes incidents of gun violence that were reported to law enforcement.
 
-Donwload link for the data set https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany/download?datasetVersionNumber=6](https://www.kaggle.com/datasets/jameslko/gun-violence-data)
+Data set: https://www.kaggle.com/datasets/jameslko/gun-violence-data
 ## Data Contents
 Dataset is a comprehensive record of over 260k US gun violence incidents from 2013-2018.
 Consists of 29 columns that includes the number of individuals killed or injured, source URL, the 
@@ -50,3 +50,5 @@ Have incidents increased or decreased over time?
 * Scripts (_contains Python code for analysis_)
 * Analysis (_contains Visualizations_)
 * Sent to Client (_contains Final Tableau Dashboard and recommendations_)
+## Tableau Dashboard 
+Check out the Tableau Dashboard https://public.tableau.com/app/profile/erica8659/viz/GunViolenceAnalysis_17151292448350/GunViolenceAnalysis
