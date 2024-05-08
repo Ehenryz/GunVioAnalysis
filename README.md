@@ -33,7 +33,7 @@ Other data limitations:
 Dataset is a comprehensive record of over 260k US gun violence incidents from 2013-2018.
 Consists of 29 columns that includes the number of individuals killed or injured, source URL, the 
 number of guns involved, gun type, whether the gun was stolen, address of incident, as well as 
-information on state legislature and a notes column.
+information on state legislature and a notes column. (Data files too large to upload to GitHub)
 ### Key Questions:
 1. Do gun violence incidents vary in frequency throughout the year? Is there a trend or pattern 
 to the data?
