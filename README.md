@@ -24,9 +24,10 @@ Stage 3: The entries were sorted in order of increasing date, then merged into a
 
 Other data limitations:
 *Data for 2013 has limited records.
-*Data contains some manually entered data so there may be some human error or incorrect data.
-*Data only includes incidents of gun violence that were reported to law enforcement.
 
+*Data contains some manually entered data so there may be some human error or incorrect data.
+
+*Data only includes incidents of gun violence that were reported to law enforcement.
 ## Data Contents
 Dataset is a comprehensive record of over 260k US gun violence incidents from 2013-2018.
 Consists of 29 columns that includes the number of individuals killed or injured, source URL, the 
