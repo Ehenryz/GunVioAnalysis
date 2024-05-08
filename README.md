@@ -12,12 +12,16 @@ Kaggle lists the following information regarding data collection and its limitat
 Because GVA limits the number of incidents that are returned from a single query, and because the 
 website's "Export to CSV" functionality was missing crucial fields, it was necessary to obtain this 
 dataset using web scraping techniques.
+
 Stage 1: For each date between 1/1/2013 and 3/31/2018, a Python script queried all incidents that 
 happened at that particular date, then scraped the data and wrote it to a CSV file. Each month got 
 its own CSV file, with the exception of 2013, since not many incidents were recorded from then.
+
 Stage 2: Each entry was augmented with additional data not directly viewable from the query 
 results page, such as participant information, geolocation data, etc.
+
 Stage 3: The entries were sorted in order of increasing date, then merged into a single CSV file.
+
 Other data limitations:
 *Data for 2013 has limited records.
 *Data contains some manually entered data so there may be some human error or incorrect data.
