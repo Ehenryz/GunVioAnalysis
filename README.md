@@ -23,6 +23,7 @@ results page, such as participant information, geolocation data, etc.
 Stage 3: The entries were sorted in order of increasing date, then merged into a single CSV file.
 
 Other data limitations:
+
 *Data for 2013 has limited records.
 
 *Data contains some manually entered data so there may be some human error or incorrect data.
