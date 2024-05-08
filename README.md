@@ -34,13 +34,6 @@ Dataset is a comprehensive record of over 260k US gun violence incidents from 20
 Consists of 29 columns that includes the number of individuals killed or injured, source URL, the 
 number of guns involved, gun type, whether the gun was stolen, address of incident, as well as 
 information on state legislature and a notes column.
-## Data Relevance 
-This data is relevant and contains multiple dimensions in relation to gun violence incidents in the 
-U.S. The dataset also meets all of the project requirements.
-## Data Ethics
-Though data is publicly available, ethical considerations of PII should be prioritized to protect 
-individuals from identifying information such as first and last name data. The data source has been 
-transparent and accountable in their data collection methods.
 ### Key Questions:
 1. Do gun violence incidents vary in frequency throughout the year? Is there a trend or pattern 
 to the data?
