@@ -1,11 +1,8 @@
 # Gun Violence Analysis (Python)
 ## Motivation
-To foster gun violence awareness throughout the U.S. and educate the public on gun violence incidents in the U.S. The storyboard will provide insights about gun violence incidents as it relates to States, frequency of incidents over time, and gender.
-
-
+To foster gun violence awareness throughout the U.S. and educate the public on gun violence incidents in the U.S. The analysis provides insights about gun violence incidents as it relates to States, frequency of incidents over time, and gender.
 ## Data Source and Limitations
 This is an external data source accessed via Kaggle. Dataset is originally from gunviolencearchive.org. GVA is a is an independent collection and research group (with no affiliation to any advocacy organization), and a not-for-profit corporation that formed in 2013 to provide free online public access to accurate information about gun-related violence in the United States. GVA is a trustworthy data source that contains government and local law enforcement data.
-
 
 Since GVA limits the number of incidents that are returned from a single query, and because the website's "Export to CSV" functionality was missing crucial fields, it was necessary to obtain the dataset using web scraping techniques. Limitations include data for 2013 having limited records, some manually entered data, and dataset only including incidents of gun violence that were reported to law enforcement.
 
