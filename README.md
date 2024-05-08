@@ -29,11 +29,13 @@ Other data limitations:
 *Data contains some manually entered data so there may be some human error or incorrect data.
 
 *Data only includes incidents of gun violence that were reported to law enforcement.
+
+Donwload link for the data set https://www.kaggle.com/datasets/corrieaar/apartment-rental-offers-in-germany/download?datasetVersionNumber=6](https://www.kaggle.com/datasets/jameslko/gun-violence-data)
 ## Data Contents
 Dataset is a comprehensive record of over 260k US gun violence incidents from 2013-2018.
 Consists of 29 columns that includes the number of individuals killed or injured, source URL, the 
 number of guns involved, gun type, whether the gun was stolen, address of incident, as well as 
-information on state legislature and a notes column. (Data files too large to upload to GitHub)
+information on state legislature and a notes column. 
 ### Key Questions:
 1. Do gun violence incidents vary in frequency throughout the year? Is there a trend or pattern 
 to the data?
